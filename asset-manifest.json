@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/physics-lab/static/css/main.603d6e58.css",
+    "main.js": "/physics-lab/static/js/main.874a7873.js",
+    "index.html": "/physics-lab/index.html",
+    "main.603d6e58.css.map": "/physics-lab/static/css/main.603d6e58.css.map",
+    "main.874a7873.js.map": "/physics-lab/static/js/main.874a7873.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.603d6e58.css",
+    "static/js/main.874a7873.js"
+  ]
+}
